@@ -6,7 +6,7 @@ Les presento mi proyecto del curso de "Programación Orientada a Objetos con Jav
 ## Construido con 🛠️
 
 * [Java SE 17 & JDK 17](https://docs.oracle.com/en/java/javase/17/docs/api/index.html) - Lenguaje de programación utilizado 🌱
-* [Java Swing](https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html) - Framework utilizado para la interfaz gráfica 🖥️
+* [Java Swing](https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html) - Libreria utilizada para la interfaz gráfica 🖥️
 * [EclipseLink](https://eclipse.dev/eclipselink/) - Proveedor de JPA utilizado 🔗
 * [MySQL](https://www.mysql.com) - Base de datos utilizada 🗄️
 
